@@ -51,8 +51,17 @@ export const PROJECTS: Project[] = [
     link: 'https://github.com/ruicchi/sorting-visualizer',
     video:
       'https://res.cloudinary.com/dfz0pi0zy/video/upload/v1772181118/Sorting_video_xsgqjr.mp4',
-    id: 'project3',
+    id: 'project3', 
   },
+  {
+    name: 'energy-aware-astar',
+    description: '(Thesis) Incorporating energy-aware heuristics to autonomous robot path planning!',
+    link: 'https://github.com/ruicchi/energy-aware-astar',
+    video:
+      'https://res.cloudinary.com/dfz0pi0zy/video/upload/v1774184630/energyaware_nw396f.mp4',
+    id: 'project4',
+  },
+  //! MORE PROJECTS HERE
 ]
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
